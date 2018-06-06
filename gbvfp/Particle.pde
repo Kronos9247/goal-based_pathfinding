@@ -1,5 +1,5 @@
 /*
-    This is a simple example implemenation of Goal-Based Vector Field Pathfinding
+    This is a simple example implementation of Goal-Based Vector Field Pathfinding
     Copyright (C) 2018  Rafael Orman
 
     This program is free software: you can redistribute it and/or modify
